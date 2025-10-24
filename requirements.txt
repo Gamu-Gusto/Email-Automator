@@ -1,0 +1,7 @@
+streamlit
+pandas
+SQLAlchemy
+streamlit-extras
+plotly
+streamlit-option-menu
+streamlit-lottie
